@@ -1,0 +1,8 @@
+build/
+dist/
+__pycache__/
+imgui.ini
+releases/
+commands.dll
+analysis/
+HANDOFF.md
